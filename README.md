@@ -5,5 +5,5 @@ This theme is just a mishmash of different things saved on GitHub for backup. Mo
 ## Guide for me
 
 - cd to /boot/EFI/refind
-- append `include themes/crimson/theme.conf`
+- append `include themes/crimson/theme.conf` to refind.conf
 - move themes dir from this repo to current path
